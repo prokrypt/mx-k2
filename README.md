@@ -12,7 +12,7 @@ Settings (press F1 and F2 together):<br>
 	E memory repeat play 255 times, or toggle repeat (does not toggle "C". input "E" twice to unset "C")<br>
 	L ? (responds R)<br>
 	M ? (responds R)<br>
-	N ? (responds R, eats 3 number or "T" inputs, responds R again)<br>
+	N ? (responds R, eats 3 number or "T" inputs, responds R again. does not seem to affect repeat play modes nor tune mode?)<br>
 	Q ? (responds R)<br>
 	S ? (responds R)<br>
 	T tune mode (sends 60 second tone then returns to settings. returns to normal mode at any paddle input)<br>

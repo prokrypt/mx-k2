@@ -9,7 +9,7 @@ Settings (press F1 and F2 together):<br>
 	B iambic mode B<br>
 	C memory repeat play continuous<br>
 	D exit settings<br>
-	E repeat play 255 times, or toggle repeat (does not toggle "C". input "E" twice to unset "C")<br>
+	E memory repeat play 255 times, or toggle repeat (does not toggle "C". input "E" twice to unset "C")<br>
 	L ? (responds R)<br>
 	M ? (responds R)<br>
 	N ? (responds R, eats 3 number or "T" inputs, responds R again)<br>

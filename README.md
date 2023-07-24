@@ -16,6 +16,3 @@ Settings (press F1 and F2 together):<br>
 	Q Quick digits mode(NNN convert to 0→T,1→A,2→U….9→N)<br>
 	S Standard digits mode<br>
 	T tune mode (sends 60 second tone then returns to settings. returns to normal mode at any paddle input)<br>
-
-kakuninn
-
